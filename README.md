@@ -22,9 +22,9 @@ Imagine never missing another guest message again.
 
 Enhancing your Airbnb business with an AI chatbot is no longer a luxury—it's a necessity. These virtual assistants streamline guest communication, providing 24/7 availability and instant responses.
 
-<p align="center"><img width="700" alt="AI Chatbots for Airbnb" src="https://github.com/OpportunitesDigitales/airbnbchatbot/assets/110440447/f3b762fe-c419-4af1-bfa5-16c755c81074"></p>
-
 They act as multilingual concierges, improving the customer experience while cutting costs and boosting revenue.
+
+<p align="center"><img width="412" alt="Screen Shot 2024-04-16 at 11 57 02 am" src="https://github.com/OpportunitesDigitales/airbnbchatbot/assets/110440447/fa49010d-c986-478a-a9b8-e5bf54e7a3a6"></p>
 
 ### Streamlined Guest Communication
 
@@ -45,6 +45,8 @@ This constant availability transcends time zones and office hours. Guests can co
 With AI handling routine tasks swiftly, you gain precious time to focus on strategy and hospitality excellence.
 
 Leveraging natural language processing, these bots comprehend context and sentiments. They engage guests naturally, simulating human-like interactions. Multilingual capabilities cater to a global audience, breaking language barriers.
+
+<p align="center"><img width="700" alt="AI Chatbots for Airbnb" src="https://github.com/OpportunitesDigitales/airbnbchatbot/assets/110440447/f3b762fe-c419-4af1-bfa5-16c755c81074"></p>
 
 ### Multilingual Concierge
 
